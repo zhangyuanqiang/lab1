@@ -20,7 +20,7 @@ class Polynomial //多项式
 		for (int i=0;i<=26;i++) appear[i]=0;
 		return ;
 	}
-	
+	//~~
 	public void Merge(String s) //分解，处理系数和指数
 	{
 		String ts[]=s.split("[*]");
