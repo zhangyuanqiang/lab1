@@ -9,7 +9,7 @@ class Polynomial //多项式
 	int appear[]=new int[30]; //指数
 	int coe; //系数
 	boolean flag,use,out; //合法、合并、输出
-	
+	//@.@
 	public void Clear() //初始化
 	{
 		va=0; 
