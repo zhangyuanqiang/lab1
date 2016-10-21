@@ -1,7 +1,7 @@
 package test1;
 import java.text.SimpleDateFormat;
 import java.util.*;
-
+//^-^
 class Polynomial //多项式
 {
 	String old; //原始多项式
