@@ -175,7 +175,7 @@ class Command //指令
 }
 
 public class test1 {
-	
+	//= - =
 	static Polynomial p[]=new Polynomial[1000];
 	static Command co;
 	static int sum; //项式数
